@@ -7,4 +7,4 @@
 ![image](https://github.com/gao793583308/Practice-Recommendation-Algorithms/blob/master/pic/data.jpeg)
 ## 已经实现的算法
 #### 随机取了1/100的数据作为验证集，batch大小为4096。2000个batch后终止，结果为验证集上的AUC值。
-#### [FM(Factorization Machine)](https://github.com/gao793583308/Practice-Recommendation-Algorithms/tree/master/code/FM)  like:0.824 
+#### [FM(Factorization Machine)](https://github.com/gao793583308/Practice-Recommendation-Algorithms/tree/master/code/FM)  like:0.824 Finish:0.759
