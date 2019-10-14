@@ -14,4 +14,4 @@ like: 0.824 Finish:0.759
 Like: 0.9456 Finish: 0.7498
 
 #### [xDeepFM](https://github.com/gao793583308/Practice-Recommendation-Algorithms/tree/master/code/xDeepFM)  
-Like: 0.9438 
+Like: 0.9438 Finish:0.7471
